@@ -1,0 +1,25 @@
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/db.sqlite3
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+**/*.pyc
+
+# Old standalone prototypes
+/index.html
+/QueueLess_MVP_Demo.html
+/advantage.html
+/finance.html
+/growth.html
+/market.html
+/model.html
+/mvp.html
+/problem.html
+/solution.html
+frontend/dist/
+frontend/.env
+QueueLess_MVP_Demo.html
+index.html
